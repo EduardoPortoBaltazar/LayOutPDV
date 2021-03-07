@@ -2,13 +2,13 @@ program LayOutPDV;
 
 uses
   Vcl.Forms,
-  FPdv in 'Source\FPdv.pas' {Form1};
+  FPdv in 'Source\FPdv.pas' {FPdvPrincipal};
 
 {$R *.res}
 
 begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
-  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TFPdvPrincipal, FPdvPrincipal);
   Application.Run;
 end.
