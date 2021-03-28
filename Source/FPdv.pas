@@ -11,8 +11,8 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, dxGDIPlusClasses, Vcl.ExtCtrls,
-  Vcl.WinXPanels, Vcl.StdCtrls, Vcl.Imaging.pngimage;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls,
+  Vcl.WinXPanels, Vcl.StdCtrls, Vcl.Imaging.pngimage, Vcl.Imaging.jpeg;
 
 type
   TFPdvPrincipal = class(TForm)

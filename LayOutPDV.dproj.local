@@ -3,8 +3,8 @@
 	<Transactions>
     <Transaction>2020/10/09 19:15:47.000.605,=C:\Users\Eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2021/02/23 18:17:27.000.554,=C:\Users\Eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/02/23 18:18:08.000.920,E:\workspace\LayOutPDV\Source\FPdv.pas=C:\Users\Eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/02/23 18:18:08.000.920,E:\workspace\LayOutPDV\Source\FPdv.dfm=C:\Users\Eduardo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2021/02/23 18:18:26.000.309,E:\workspace\LayOutPDV\LayOutPDV.dproj=C:\Users\Eduardo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/02/23 18:18:08.000.920,C:\Users\Eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\workspace\LayOutPDV\Source\FPdv.pas</Transaction>
+    <Transaction>2021/02/23 18:18:08.000.920,C:\Users\Eduardo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\workspace\LayOutPDV\Source\FPdv.dfm</Transaction>
+    <Transaction>2021/02/23 18:18:26.000.309,C:\Users\Eduardo\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\workspace\LayOutPDV\LayOutPDV.dproj</Transaction>
   </Transactions>
 </BorlandProject>
